@@ -5,6 +5,12 @@ Swoosh was thought of when I sat down in the same barber shop for the nth time a
 That is when I thought I will start to work on an app for listing salons. 
 ```
 
+## UI Mockup
+![1](https://drive.google.com/uc?export=view&id=1m95bRdZGkEfMaE2I3bUEmazFdRH_PLNE) ![2](https://drive.google.com/uc?export=view&id=1V4IJBV5Y9SacM53bNFaRCDQIH3Rf2rGW) ![3](https://drive.google.com/uc?export=view&id=1koUuJ9HP-xPX9N4vE0KeJ_-OHZgOOji7)
+
+
+## Android App Screnshots
+
 ## Features
 ```
 1. Search for Salons
